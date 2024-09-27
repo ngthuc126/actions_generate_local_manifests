@@ -1,0 +1,5 @@
+repo init -u https://github.com/The-Pixel-Project/manifest -b fourteen-qpr3 -g default,-mips,-darwin,-notdefault --git-lfs
+git clone https://github.com/alternoegraha/device_xiaomi_fog device/xiaomi/fog
+git clone https://github.com/alternoegraha/kernel_xiaomi_fog_header kernel/xiaomi/fog
+git clone https://github.com/alternoegraha/vendor_xiaomi_fog vendor/xiaomi/fog
+ 
